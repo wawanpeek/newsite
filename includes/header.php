@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" >
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">
-    <title> <?php echo $title?> </title>
+    <title>TMFlix </title>
     
   </head>
   <body>
@@ -20,7 +20,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
     
-    <p class="navbar-nav mx-auto"><a class="navbar-brand" href="#" ><img src="tmflix.png" alt="TMFLIX"> </a></p>
+    <p class="navbar-nav mx-auto"><a class="navbar-brand" href="#" ><img src="img/tmflix.png" alt="TMFLIX"> </a></p>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
