@@ -7,47 +7,62 @@
   <div class="row align-items-start">
     <div class="col">
       <a href="goodgirls/season.php">
-     <input type="submit"/>
-   
-      <img src="img/1goodgirls.jpg" alt="good girls poster" class="img-fluid" />  </a>
+      <br>
+      <figure>
+      <img src="img/1goodgirls.PNG" alt="good girls poster" class="img-fluid" width="307" height="100%" />  </a>
+      </figure>
+    </div>
 
-      ?>
-    </div>
     <div class="col">
-      One of three columns
-      <img src="img/2howtogetawaywithmurder.jpg" alt="good girls poster" class="img-fluid" />
+    <br>
+    <figure>
+      <img src="img/2howtogetawaywithmurder.jpg" alt="good girls poster" class="img-fluid" width="307" height="100%"  />
+      </figure>
+      </figure>
     </div>
+
     <div class="col">
-      One of three columns
-      <img src="img/3ratched.jpeg" alt="good girls poster" class="img-fluid" />
+    <br>
+    <figure>
+      <img src="img/3ratched.jpeg" alt="good girls poster" class="img-fluid" width="307" height="100%" />
+      </figure>
     </div>
   </div>
+
   <div class="row align-items-center">
     <div class="col">
-      One of three columns
-      <img src="img/4kingdom.jpg" alt="good girls poster" class="img-fluid" />
+      <br>
+      <figure>
+      <img src="img/4kingdom.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
+      </figure>
     </div>
+
     <div class="col">
-      One of three columns
-      <img src="img/5ricknmorty.png" alt="good girls poster" class="img-fluid" />
+    <br>
+    <figure>
+      <img src="img/5ricknmorty.png" alt="good girls poster" class="img-fluid" width="307" height="240" />
     </div>
+
     <div class="col">
-      One of three columns
-      <img src="img/6aliceinborderland.jpg" alt="good girls poster" class="img-fluid" />
+    <br>
+      <img src="img/6aliceinborderland.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
     </div>
   </div>
+
   <div class="row align-items-end">
     <div class="col">
-      One of three columns
-      <img src="img/7flower&evil.jpg" alt="good girls poster" class="img-fluid" />
+    <br>
+      <img src="img/7flower&evil.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
     </div>
+
     <div class="col">
-      One of three columns
-      <img src="img/8theninetailed.jpg" alt="good girls poster" class="img-fluid" />
+    <br>
+      <img src="img/8theninetailed.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
     </div>
+
     <div class="col">
-      One of three columns
-      <img src="img/9alienist.jpg" alt="good girls poster" class="img-fluid" />
+    <br>
+      <img src="img/9alienist.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
     </div>
   </div>
 </div>

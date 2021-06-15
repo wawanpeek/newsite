@@ -31,18 +31,22 @@
         
           <a class="nav-item nav-link" href="index.php">Home</a>
         
-          <a class="nav-item nav-link" href="series.php">TV Shows</a>
-        
-          <a class="nav-item nav-link" href="mylist.php">My List</a>
-
-          <a class="nav-item nav-link" href="index.php">Account</a>
+          <a class="nav-item nav-link" href="genre.php">Genre</a>
+          <a class="nav-item nav-link" href="series.php">TVShows</a>
+          <a class="nav-item nav-link" href="account.php">Account</a>
        </div>
 
-       <div class="navbar-nav ml-auto" class="container-fluid">
+       <div class="input-group mb-3">
+       
+        <input type="text" class="form-control" placeholder="TV Shows, Actor" aria-label="search" aria-describedby="basic-addon2">
+      <span class="input-group-text" id="basic-addon2">Search</span>
+      </div>
+
+      <!-- <div class="navbar-nav ml-auto" class="container-fluid">
     
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
         <button type="button" class="btn btn-outline-danger" >Search</i></i></button>
-    </div>
+    </div> -->
   </div>
  </nav>
  <br/>
