@@ -21,7 +21,7 @@
     </div>
     <div class="col">
       One of three columns
-      <img src="goodgirls.jpg" alt="good girls poster" class="img-fluid" />
+      <img src="ratched.jpeg" alt="good girls poster" class="img-fluid" />
     </div>
   </div>
   <div class="row align-items-center">
