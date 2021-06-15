@@ -25,19 +25,3 @@
 #navbarNavAltMarkup > div.navbar-nav.mx-auto > a:nth-child(n):hover{
     color: #E50914;
 }
-
-.mid{
-    width: 100vh;
-    height: 100vh;
-    overflow: hidden;
-}
-.mid video{
-    width: 100vh;
-    height: 100vh;
-    pointer-events: none;
-    object-fit: cover;
-}
-
-.sizer {
-    width: 300px;
-  }

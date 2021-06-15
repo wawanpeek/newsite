@@ -33,7 +33,7 @@
     <div class="col">
       <br>
       <figure>
-      <img src="img/4kingdom.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
+      <img src="img/4King-dom.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
       </figure>
     </div>
 
@@ -65,6 +65,28 @@
       <img src="img/9alienist.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
     </div>
   </div>
+  <div class="row align-items-end">
+    <div class="col">
+    <br>
+      <img src="img/10brooklyn99.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
+    </div>
+
+    <div class="col">
+    <br>
+      <img src="img/11fallofacity.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
+    </div>
+
+    <div class="col">
+    <br>
+      <img src="img/Goblin.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
+    </div>
+  </div>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <?php require_once 'includes/footer.php'; ?>
