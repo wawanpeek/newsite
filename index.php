@@ -10,7 +10,7 @@
      <input type="submit"/>
   
    
-      <img src="goodgirls.jpg" alt="good girls poster" class="img-fluid" />  </a>
+      <img src="img/goodgirls.jpg" alt="good girls poster" class="img-fluid" />  </a>
       
       
       ?>
