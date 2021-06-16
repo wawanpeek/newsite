@@ -1,7 +1,7 @@
 <?php 
     require_once 'includes/header.php'; 
 ?>
-    <h3>Trending lady gaga</h3>
+    <h3>Trending sambun</h3>
 
     <div class="container">
   <div class="row align-items-start">
