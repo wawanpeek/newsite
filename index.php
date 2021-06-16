@@ -1,7 +1,7 @@
 <?php 
     require_once 'includes/header.php'; 
 ?>
-    <h3>Trending</h3>
+    <h3>Trending testing123</h3>
 
     <div class="container">
   <div class="row align-items-start">
