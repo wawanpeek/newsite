@@ -1,7 +1,7 @@
 <?php 
     require_once 'includes/header.php'; 
 ?>
-    <h3>Trending</h3>
+    <h3>Trending lady gaga</h3>
 
     <div class="container">
   <div class="row align-items-start">
@@ -16,7 +16,7 @@
     <div class="col">
     <br>
     <figure>
-      <img src="img/2howtogetawaywithmurder.jpg" alt="good girls poster" class="img-fluid" width="307" height="100%"  />
+      <img src="img/2howtogetawaywithmurder.jpg" alt="howtogetawaywithmurder poster" class="img-fluid" width="307" height="100%"  />
       </figure>
       </figure>
     </div>
@@ -24,7 +24,7 @@
     <div class="col">
     <br>
     <figure>
-      <img src="img/3ratched.jpeg" alt="good girls poster" class="img-fluid" width="307" height="100%" />
+      <img src="img/3ratched.jpeg" alt="ratched poster" class="img-fluid" width="307" height="100%" />
       </figure>
     </div>
   </div>
@@ -33,52 +33,52 @@
     <div class="col">
       <br>
       <figure>
-      <img src="img/4King-dom.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
+      <img src="img/4King-dom.jpg" alt="King-dom poster" class="img-fluid" width="307" height="240" />
       </figure>
     </div>
 
     <div class="col">
     <br>
     <figure>
-      <img src="img/5ricknmorty.png" alt="good girls poster" class="img-fluid" width="307" height="240" />
+      <img src="img/5ricknmorty.png" alt="ricknmorty poster" class="img-fluid" width="307" height="240" />
     </div>
 
     <div class="col">
     <br>
-      <img src="img/6aliceinborderland.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
+      <img src="img/6aliceinborderland.jpg" alt="aliceinborderland poster" class="img-fluid" width="307" height="240"/>
     </div>
   </div>
 
   <div class="row align-items-end">
     <div class="col">
     <br>
-      <img src="img/7flower&evil.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
+      <img src="img/7flower&evil.jpg" alt="flower&evil poster" class="img-fluid" width="307" height="240"/>
     </div>
 
     <div class="col">
     <br>
-      <img src="img/8theninetailed.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
+      <img src="img/8theninetailed.jpg" alt="theninetailed poster" class="img-fluid" width="307" height="240"/>
     </div>
 
     <div class="col">
     <br>
-      <img src="img/9alienist.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
+      <img src="img/9alienist.jpg" alt="alienist poster" class="img-fluid" width="307" height="240" />
     </div>
   </div>
   <div class="row align-items-end">
     <div class="col">
     <br>
-      <img src="img/10brooklyn99.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
+      <img src="img/10brooklyn99.jpg" alt="brooklyn99 poster" class="img-fluid" width="307" height="240"/>
     </div>
 
     <div class="col">
     <br>
-      <img src="img/11fallofacity.jpg" alt="good girls poster" class="img-fluid" width="307" height="240"/>
+      <img src="img/11fallofacity.jpg" alt="fallofacity poster" class="img-fluid" width="307" height="240"/>
     </div>
 
     <div class="col">
     <br>
-      <img src="img/Goblin.jpg" alt="good girls poster" class="img-fluid" width="307" height="240" />
+      <img src="img/guardian.jpg" alt="guardian poster" class="img-fluid" width="307" height="240" />
     </div>
   </div>
 </div>
